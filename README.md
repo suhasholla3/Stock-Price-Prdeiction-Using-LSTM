@@ -1,9 +1,9 @@
 # Stock-Price-Trend-Prediction-LSTM
 Predicting the trend of a company stock by using Long Short Term memory (LSTM) 
 
-## What we built
-In this Program, we’ll build a Python deep learning model that will predict the future behavior of stock prices. 
-We assume that you are familiar with the concepts of deep learning in Python, especially RNN and Long Short-Term Memory.
+## What I built
+In this Project, I will build a Python deep learning model that will predict the future behavior of stock prices. 
+I assume that you are familiar with the concepts of deep learning in Python, especially RNN and Long Short-Term Memory.
 While predicting the actual price of a stock is an uphill climb,
 we can build a model that will predict whether the price will go up or down. 
 
